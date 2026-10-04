@@ -1,7 +1,68 @@
 {
   "schema": 2,
   "date": "2026-10-04",
-  "generated_at": "2026-10-04T07:20:00-05:00",
+  "generated_at": "2026-10-04T09:13:09-05:00",
   "nfl_week": 4,
-  "cards": []
+  "cards": [
+    {
+      "id": "nfl_scores",
+      "title": "NFL Week 4 Scoreboard",
+      "pick_type": "straight_up",
+      "preview_file": "nfl_scores.preview.webp",
+      "full_file": "nfl_scores.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "NFL Week 4 scoreboard. Final: CLE 27, PIT 24. 15 games remaining, from IND at WSH 8:30 AM CT to ATL at NO Mon 7:15 PM CT, with TV networks."
+    },
+    {
+      "id": "nfl_model_picks",
+      "title": "Model Picks (straight-up)",
+      "pick_type": "straight_up",
+      "preview_file": "nfl_model_picks.preview.webp",
+      "full_file": "nfl_model_picks.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "Stats-only model straight-up win probabilities for 15 remaining Week 4 games (ignores injuries). Strongest: MIN 74% over MIA, SF 74% over DEN, SEA 73% over LAC."
+    },
+    {
+      "id": "nfl_expert_picks",
+      "title": "Expert Picks (straight-up)",
+      "pick_type": "straight_up",
+      "preview_file": "nfl_expert_picks.preview.webp",
+      "full_file": "nfl_expert_picks.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "Week 4 straight-up picks grid from 12 published experts (CBS Sports, Yahoo Sports, ESPN, NFL.com). Everyone who picked agreed on BUF, ARI, BAL, SEA, DET."
+    },
+    {
+      "id": "nfl_standings",
+      "title": "NFL Standings",
+      "pick_type": "straight_up",
+      "preview_file": "nfl_standings.preview.webp",
+      "full_file": "nfl_standings.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "NFL standings for all 8 divisions with records and point differential. Unbeaten: BUF 3-0, KC 3-0, LV 3-0, MIN 3-0, SF 3-0. Winless: MIA 0-3, TEN 0-3, HOU 0-3, LAC 0-3, TB 0-3."
+    },
+    {
+      "id": "nfl_ats_early",
+      "title": "Model vs Spread: Early Games",
+      "pick_type": "against_spread",
+      "preview_file": "nfl_ats_early.preview.webp",
+      "full_file": "nfl_ats_early.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: NYG +2.5 66%, TB +3 63%, DAL +3 59%. Lowest: BAL -11.5 35%. Line not available for 1 game(s). Model estimate, not betting advice."
+    },
+    {
+      "id": "nfl_ats_late",
+      "title": "Model vs Spread: Late Games",
+      "pick_type": "against_spread",
+      "preview_file": "nfl_ats_late.preview.webp",
+      "full_file": "nfl_ats_late.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 6 games. Best: CAR +3.5 67%, SF -3 64%, SEA -7 52%. Lowest: KC -4.5 38%. Lock candidate: CAR +3.5 (67% cover). Model estimate, not betting advice."
+    }
+  ]
 }
