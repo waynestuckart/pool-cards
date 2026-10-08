@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T06:06:12-05:00",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T03:59:27-07:00",
   "nfl_week": 4,
   "cards": [
     {
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: BAL +3.5 62%, LAC +3.5 61%, SF +2.5 58%. Lowest: DET -4.5 42%. Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: BAL +3.5 62%, LAC +3.5 61%, SF +2.5 58%. Lowest: DET -5.5 39%. Model estimate, not betting advice."
     }
   ]
 }
