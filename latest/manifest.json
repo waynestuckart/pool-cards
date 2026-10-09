@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T03:59:27-07:00",
-  "nfl_week": 4,
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T06:08:55-05:00",
+  "nfl_week": 5,
   "cards": [
     {
       "id": "nfl_scores",
-      "title": "NFL Week 4 Scoreboard",
+      "title": "NFL Week 5 Scoreboard",
       "pick_type": "straight_up",
       "preview_file": "nfl_scores.preview.webp",
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 4 scoreboard. Final: CLE 27, PIT 24; IND 30, WSH 13; NE 29, BUF 26; CHI 23, NYJ 12 (+12 more)."
+      "alt": "NFL Week 5 scoreboard. Final: TB 24, DAL 16. 14 games remaining, from PHI at JAX Sun 8:30 AM CT to BUF at LAR Mon 7:15 PM CT, with TV networks."
     },
     {
       "id": "nfl_model_picks",
@@ -22,7 +22,7 @@
       "full_file": "nfl_model_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Stats-only model straight-up win probabilities for 15 remaining Week 5 games (ignores injuries). Strongest: JAX 64% over PHI, DAL 60% over TB, CIN 60% over MIA."
+      "alt": "Stats-only model straight-up win probabilities for 14 remaining Week 5 games (ignores injuries). Strongest: JAX 64% over PHI, CIN 60% over MIA, MIN 60% over NO."
     },
     {
       "id": "nfl_expert_picks",
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 4 expert straight-up picks: boards not published yet."
+      "alt": "Week 5 straight-up picks grid from 4 published experts (CBS Sports, ESPN (10-analyst majority), NFL.com (5-editor majority)). Everyone who picked agreed on DAL, JAX, HOU, CIN, NE, DET, LAR."
     },
     {
       "id": "nfl_standings",
@@ -42,7 +42,7 @@
       "full_file": "nfl_standings.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL standings for all 8 divisions with records and point differential. Unbeaten: KC 4-0, MIN 4-0, SF 4-0. Winless: MIA 0-4, HOU 0-4, TEN 0-4, LAC 0-4, TB 0-4."
+      "alt": "NFL standings for all 8 divisions with records and point differential. Unbeaten: KC 4-0, MIN 4-0, SF 4-0. Winless: MIA 0-4, TEN 0-4, HOU 0-4, LAC 0-4."
     },
     {
       "id": "nfl_ats_early",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 10 games. Best: TEN +7.5 73%, NYG +3.5 64%, LV +3.5 63%. Lowest: DAL -8.5 36%. Lock candidate: TEN +7.5 (73% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: TEN +7.5 73%, NYG +3.5 64%, LV +3.5 63%. Lowest: CIN -6.5 41%. Lock candidate: TEN +7.5 (73% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: BAL +3.5 62%, LAC +3.5 61%, SF +2.5 58%. Lowest: DET -5.5 39%. Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: LAC +3.5 61%, BAL +3 59%, SF +3 58%. Lowest: DET -5.5 39%. Model estimate, not betting advice."
     }
   ]
 }
