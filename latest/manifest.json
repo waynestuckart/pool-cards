@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-10-14",
-  "generated_at": "2026-10-14T06:04:26-05:00",
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T06:02:01-05:00",
   "nfl_week": 5,
   "cards": [
     {
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Week 5 straight-up picks grid from 2 published experts (CBS Sports). Everyone who picked agreed on SEA, ATL, BAL, IND, NE, NYG, TB, LAR, KC, BUF, SF."
+      "alt": "Week 5 straight-up picks grid from 3 published experts (CBS Sports, ESPN (majority of 8 of 11 analysts in so far)). Everyone who picked agreed on SEA, BAL, IND, NE, NYG, LAR, KC, BUF, SF."
     },
     {
       "id": "nfl_standings",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: NYG +1.5 66%, ATL +3 62%, CAR +1.5 60%. Lowest: IND -7 36%. Lock candidate: NYG +1.5 (66% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: NYG +1.5 66%, ATL +1.5 60%, TB +2.5 58%. Lowest: IND -7 36%. Lock candidate: NYG +1.5 (66% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
