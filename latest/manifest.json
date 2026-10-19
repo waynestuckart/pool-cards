@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T06:01:22-05:00",
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T06:00:36-05:00",
   "nfl_week": 6,
   "cards": [
     {
@@ -12,7 +12,7 @@
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 6 scoreboard. Final: DEN 17, SEA 14. 13 games remaining, from HOU at JAX 8:30 AM CT to WSH at SF Mon 7:15 PM CT, with TV networks."
+      "alt": "NFL Week 6 scoreboard. Final: DEN 17, SEA 14; HOU 34, JAX 31; CHI 31, ATL 23; CLE 13, BAL 10 (+9 more). 1 games remaining, from WSH at SF 7:15 PM CT to WSH at SF 7:15 PM CT, with TV networks."
     },
     {
       "id": "nfl_model_picks",
@@ -22,7 +22,7 @@
       "full_file": "nfl_model_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Stats-only model straight-up win probabilities for 13 remaining Week 6 games (ignores injuries). Strongest: KC 76% over LAC, SF 76% over WSH, LAR 71% over ARI."
+      "alt": "Stats-only model straight-up win probabilities for 1 remaining Week 6 games (ignores injuries). Strongest: SF 76% over WSH."
     },
     {
       "id": "nfl_expert_picks",
@@ -42,27 +42,17 @@
       "full_file": "nfl_standings.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL standings for all 8 divisions with records and point differential. Unbeaten: KC 4-0, MIN 5-0, SF 5-0. Winless: MIA 0-5, TEN 0-5, LAC 0-5."
+      "alt": "NFL standings for all 8 divisions with records and point differential. Unbeaten: KC 5-0, MIN 5-0, SF 5-0. Winless: MIA 0-5, LAC 0-6."
     },
     {
       "id": "nfl_ats_early",
-      "title": "Model vs Spread: Early Games",
+      "title": "Model vs Spread",
       "pick_type": "against_spread",
       "preview_file": "nfl_ats_early.preview.webp",
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: ATL +1.5 60%, NYG -1.5 58%, TB +2.5 58%. Lowest: NE -7.5 37%. Lock candidate: ATL +1.5 (60% cover). Model estimate, not betting advice."
-    },
-    {
-      "id": "nfl_ats_late",
-      "title": "Model vs Spread: Late Games",
-      "pick_type": "against_spread",
-      "preview_file": "nfl_ats_late.preview.webp",
-      "full_file": "nfl_ats_late.webp",
-      "width": 1080,
-      "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: KC -7.5 56%, SF -7.5 56%, GB -1.5 55%. Lowest: LAR -12.5 35%. Model estimate, not betting advice."
+      "alt": "Against the spread, remaining games: model's likely winner, its line and chance to cover for 1 game. Best: SF -7.5 56%. Lock candidate: SF -7.5 (56% cover). Model estimate, not betting advice."
     }
   ]
 }
