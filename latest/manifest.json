@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "date": "2026-10-29",
-  "generated_at": "2026-10-29T05:57:02-05:00",
-  "nfl_week": 7,
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T06:06:34-05:00",
+  "nfl_week": 8,
   "cards": [
     {
       "id": "nfl_scores",
-      "title": "NFL Week 7 Scoreboard",
+      "title": "NFL Week 8 Scoreboard",
       "pick_type": "straight_up",
       "preview_file": "nfl_scores.preview.webp",
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 7 scoreboard. Final: CHI 30, NE 24; PIT 16, NO 10; ATL 29, SF 20; CLE 27, TEN 24 (+10 more)."
+      "alt": "NFL Week 8 scoreboard. Final: GB 27, CAR 19. 13 games remaining, from BAL at BUF Sun 12:00 PM CT to CHI at SEA Mon 7:15 PM CT, with TV networks."
     },
     {
       "id": "nfl_model_picks",
@@ -22,7 +22,7 @@
       "full_file": "nfl_model_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Stats-only model straight-up win probabilities for 14 remaining Week 8 games (ignores injuries). Strongest: CIN 71% over TEN, JAX 71% over IND, LAR 71% over LAC."
+      "alt": "Stats-only model straight-up win probabilities for 13 remaining Week 8 games (ignores injuries). Strongest: CIN 71% over TEN, JAX 71% over IND, LAR 71% over LAC."
     },
     {
       "id": "nfl_expert_picks",
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Week 7 straight-up picks grid from 2 published experts (CBS Sports). Everyone who picked agreed on GB, BUF, CIN, DAL, JAX, LAR, KC, NE, WSH, SEA."
+      "alt": "Week 8 straight-up picks grid from 3 published experts (CBS Sports, NFL.com (5-editor majority)). Everyone who picked agreed on GB, BUF, CIN, DAL, JAX, LAR, KC, NE, WSH."
     },
     {
       "id": "nfl_standings",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: MIN +3 58%, NYJ -1.5 53%, BUF -3 48%. Lowest: JAX -10 41%. Lock candidate: MIN +3 (58% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: MIN +3 58%, NYJ -1.5 53%, BUF -3 48%. Lowest: CIN -12.5 36%. Lock candidate: MIN +3 (58% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
