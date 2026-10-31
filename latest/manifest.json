@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-10-30",
-  "generated_at": "2026-10-30T06:06:34-05:00",
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T06:00:41-05:00",
   "nfl_week": 8,
   "cards": [
     {
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Week 8 straight-up picks grid from 3 published experts (CBS Sports, NFL.com (5-editor majority)). Everyone who picked agreed on GB, BUF, CIN, DAL, JAX, LAR, KC, NE, WSH."
+      "alt": "Week 8 straight-up picks grid from 9 published experts (CBS Sports, ESPN (11-analyst majority), NFL.com (5-editor majority)). Everyone who picked agreed on GB, BUF, CIN, DAL, JAX, LAR, NE, WSH."
     },
     {
       "id": "nfl_standings",
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: LAR -6.5 52%, KC -1.5 52%, SEA -3 52%. Lowest: WSH -6 39%. Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: LAR -6.5 52%, KC -1.5 52%, SEA -3 52%. Lowest: NE -7 39%. Model estimate, not betting advice."
     }
   ]
 }
