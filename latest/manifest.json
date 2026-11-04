@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-03",
-  "generated_at": "2026-11-03T05:57:55-06:00",
+  "date": "2026-11-04",
+  "generated_at": "2026-11-04T05:54:57-06:00",
   "nfl_week": 8,
   "cards": [
     {
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: CAR +3 59%, CLE +2.5 58%, CIN -3 49%. Lowest: JAX -8.5 35%. Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: CAR +2.5 59%, CLE +1.5 55%, NYG -3.5 48%. Lowest: JAX -10 30%. Line not available for 1 game(s). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 6 games. Best: MIN +3.5 62%, HOU -4.5 46%, NE -3 45%. Lowest: CHI -6 38%. Lock candidate: MIN +3.5 (62% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 6 games. Best: MIN +3.5 62%, HOU -4.5 46%, NE -3 45%. Lowest: SEA -12.5 36%. Lock candidate: MIN +3.5 (62% cover). Model estimate, not betting advice."
     }
   ]
 }
