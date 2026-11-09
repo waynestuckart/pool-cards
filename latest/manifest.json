@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-08",
-  "generated_at": "2026-11-08T06:01:33-06:00",
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T05:57:15-06:00",
   "nfl_week": 9,
   "cards": [
     {
@@ -12,7 +12,7 @@
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 9 scoreboard. Final: JAX 33, BAL 10. 14 games remaining, from CIN at ATL 8:30 AM CT to BUF at MIN Mon 7:15 PM CT, with TV networks."
+      "alt": "NFL Week 9 scoreboard. Final: JAX 33, BAL 10; CIN 34, ATL 17; DAL 27, IND 23; KC 35, NYJ 12 (+10 more). 1 games remaining, from BUF at MIN 7:15 PM CT to BUF at MIN 7:15 PM CT, with TV networks."
     },
     {
       "id": "nfl_model_picks",
@@ -22,7 +22,7 @@
       "full_file": "nfl_model_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Stats-only model straight-up win probabilities for 14 remaining Week 9 games (ignores injuries). Strongest: SEA 71% over ARI, SF 71% over LV, KC 65% over NYJ."
+      "alt": "Stats-only model straight-up win probabilities for 1 remaining Week 9 games (ignores injuries). Strongest: MIN 51% over BUF."
     },
     {
       "id": "nfl_expert_picks",
@@ -42,27 +42,17 @@
       "full_file": "nfl_standings.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL standings for all 8 divisions with records and point differential. Winless: LAC 0-7."
+      "alt": "NFL standings for all 8 divisions with records and point differential. Winless: LAC 0-8."
     },
     {
       "id": "nfl_ats_early",
-      "title": "Model vs Spread: Early Games",
+      "title": "Model vs Spread",
       "pick_type": "against_spread",
       "preview_file": "nfl_ats_early.preview.webp",
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: CAR +2.5 59%, CLE +3 58%, CIN -3 49%. Lowest: KC -9.5 38%. Lock candidate: CAR +2.5 (59% cover). Model estimate, not betting advice."
-    },
-    {
-      "id": "nfl_ats_late",
-      "title": "Model vs Spread: Late Games",
-      "pick_type": "against_spread",
-      "preview_file": "nfl_ats_late.preview.webp",
-      "full_file": "nfl_ats_late.webp",
-      "width": 1080,
-      "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 6 games. Best: MIN +3 59%, SEA -8.5 47%, NE -3 45%. Lowest: CHI -6 38%. Model estimate, not betting advice."
+      "alt": "Against the spread, remaining games: model's likely winner, its line and chance to cover for 1 game. Best: MIN +3 59%. Lock candidate: MIN +3 (59% cover). Model estimate, not betting advice."
     }
   ]
 }
