@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-10",
-  "generated_at": "2026-11-10T05:59:32-06:00",
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T05:56:50-06:00",
   "nfl_week": 9,
   "cards": [
     {
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: CAR +1.5 55%, KC -3.5 53%, NYG -2.5 52%. Lowest: BUF -8.5 37%. Lock candidate: CAR +1.5 (55% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: CAR +2.5 58%, KC -3.5 53%, NYG -2.5 52%. Lowest: BUF -8.5 37%. Lock candidate: CAR +2.5 (58% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: SF -3.5 52%, BAL -5.5 51%, SEA -3.5 50%. Lowest: LAR -9.5 36%. Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: BAL -4.5 54%, SF -3.5 52%, CIN -3.5 48%. Lowest: LAR -9.5 36%. Model estimate, not betting advice."
     }
   ]
 }
