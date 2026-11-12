@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T05:56:50-06:00",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T05:57:24-06:00",
   "nfl_week": 9,
   "cards": [
     {
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Week 9 straight-up picks grid from 8 published experts (CBS Sports, ESPN (11-analyst majority)). Everyone who picked agreed on JAX, DAL, DET, LAR, NYG, KC, SEA, CHI, BUF."
+      "alt": "Week 9 straight-up picks grid from 4 published experts (CBS Sports). Everyone who picked agreed on DET, BUF, CAR, HOU, JAX, KC, LAR, SEA, SF, BAL."
     },
     {
       "id": "nfl_standings",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: CAR +2.5 58%, KC -3.5 53%, NYG -2.5 52%. Lowest: BUF -8.5 37%. Lock candidate: CAR +2.5 (58% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 9 games. Best: CAR +2.5 58%, KC -3 53%, NYG -2.5 52%. Lowest: BUF -8.5 37%. Lock candidate: CAR +2.5 (58% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
