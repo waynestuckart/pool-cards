@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T05:57:14-06:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T06:03:57-06:00",
   "nfl_week": 10,
   "cards": [
     {
@@ -12,7 +12,7 @@
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 10 scoreboard. Final: WSH 24, NYG 21. 13 games remaining, from NE at DET Sun 8:30 AM CT to LAC at BAL Mon 7:15 PM CT, with TV networks."
+      "alt": "NFL Week 10 scoreboard. Final: WSH 24, NYG 21. 13 games remaining, from NE at DET 8:30 AM CT to LAC at BAL Mon 7:15 PM CT, with TV networks."
     },
     {
       "id": "nfl_model_picks",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: CAR +2.5 58%, KC -3 53%, GB -2.5 49%. Lowest: BUF -8.5 37%. Lock candidate: CAR +2.5 (58% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: CAR +1.5 55%, KC -3 53%, GB -2.5 49%. Lowest: BUF -8.5 37%. Lock candidate: CAR +1.5 (55% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
