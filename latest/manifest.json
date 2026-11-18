@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-17",
-  "generated_at": "2026-11-17T05:54:47-06:00",
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T05:56:41-06:00",
   "nfl_week": 10,
   "cards": [
     {
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Week 10 straight-up picks grid from 8 published experts (CBS Sports, ESPN (11-analyst majority)). Everyone who picked agreed on DET, BUF, HOU, JAX, KC, LAR, SEA, BAL."
+      "alt": "Week 10 straight-up picks grid from 1 published experts (CBS Sports). Everyone who picked agreed on HOU, BUF, CHI, DAL, DET, KC, PIT, CAR, LAC, DEN, JAX, SF, CIN."
     },
     {
       "id": "nfl_standings",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: CAR -2.5 51%, PIT -4.5 47%, DET -6.5 44%. Lowest: BUF -16.5 32%. Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 8 games. Best: CAR -2.5 51%, PIT -4.5 47%, DET -7 41%. Lowest: BUF -16.5 32%. Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: NYJ +3 61%, SF -3 50%, CIN -6.5 42%. Lowest: DEN -10 33%. Lock candidate: NYJ +3 (61% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: NYJ +3.5 64%, SF -3 50%, CIN -6.5 42%. Lowest: DEN -10 33%. Lock candidate: NYJ +3.5 (64% cover). Model estimate, not betting advice."
     }
   ]
 }
