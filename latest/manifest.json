@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-18",
-  "generated_at": "2026-11-18T05:56:41-06:00",
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T06:03:45-06:00",
   "nfl_week": 10,
   "cards": [
     {
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: NYJ +3.5 64%, SF -3 50%, CIN -6.5 42%. Lowest: DEN -10 33%. Lock candidate: NYJ +3.5 (64% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: NYJ +3 61%, SF -3 50%, CIN -6.5 42%. Lowest: DEN -10 33%. Lock candidate: NYJ +3 (61% cover). Model estimate, not betting advice."
     }
   ]
 }
