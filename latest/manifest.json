@@ -1,7 +1,7 @@
 {
   "schema": 2,
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T06:01:17-06:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T06:01:03-06:00",
   "nfl_week": 11,
   "cards": [
     {
@@ -12,7 +12,7 @@
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 11 scoreboard. Final: HOU 26, IND 3; BUF 26, MIA 9; CHI 21, NO 13; DAL 51, TEN 30 (+8 more). 1 games remaining, from CIN at WSH 7:15 PM CT to CIN at WSH 7:15 PM CT, with TV networks."
+      "alt": "NFL Week 11 scoreboard. Final: HOU 26, IND 3; BUF 26, MIA 9; CHI 21, NO 13; DAL 51, TEN 30 (+9 more)."
     },
     {
       "id": "nfl_model_picks",
@@ -22,7 +22,7 @@
       "full_file": "nfl_model_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Stats-only model straight-up win probabilities for 1 remaining Week 11 games (ignores injuries). Strongest: CIN 61% over WSH."
+      "alt": "Stats-only model straight-up win probabilities for 16 remaining Week 12 games (ignores injuries). Strongest: JAX 80% over TEN, CIN 72% over NO, DAL 66% over PHI."
     },
     {
       "id": "nfl_expert_picks",
@@ -46,13 +46,23 @@
     },
     {
       "id": "nfl_ats_early",
-      "title": "Model vs Spread",
+      "title": "Model vs Spread: Early Games",
       "pick_type": "against_spread",
       "preview_file": "nfl_ats_early.preview.webp",
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, remaining games: model's likely winner, its line and chance to cover for 1 game. Best: CIN -6 42%. Lock candidate: CIN -6 (42% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 11 games. Best: DET +2.5 67%, PIT +3 60%, LAR -2.5 52%. Lowest: JAX -14.5 41%. Lock candidate: DET +2.5 (67% cover). Model estimate, not betting advice."
+    },
+    {
+      "id": "nfl_ats_late",
+      "title": "Model vs Spread: Late Games",
+      "pick_type": "against_spread",
+      "preview_file": "nfl_ats_late.preview.webp",
+      "full_file": "nfl_ats_late.webp",
+      "width": 1080,
+      "height": 1920,
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: NE +1.5 62%, SF -3 53%, CLE -4.5 47%. Lowest: WSH -7.5 39%. Model estimate, not betting advice."
     }
   ]
 }
