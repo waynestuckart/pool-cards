@@ -1,18 +1,18 @@
 {
   "schema": 2,
-  "date": "2026-11-25",
-  "generated_at": "2026-11-25T06:02:13-06:00",
-  "nfl_week": 11,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T05:59:43-06:00",
+  "nfl_week": 12,
   "cards": [
     {
       "id": "nfl_scores",
-      "title": "NFL Week 11 Scoreboard",
+      "title": "NFL Week 12 Scoreboard",
       "pick_type": "straight_up",
       "preview_file": "nfl_scores.preview.webp",
       "full_file": "nfl_scores.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "NFL Week 11 scoreboard. Final: HOU 26, IND 3; BUF 26, MIA 9; CHI 21, NO 13; DAL 51, TEN 30 (+9 more)."
+      "alt": "NFL Week 12 scoreboard. Final: LAR 26, GB 13. 15 games remaining, from CHI at DET 12:00 PM CT to CAR at TB Mon 7:15 PM CT, with TV networks."
     },
     {
       "id": "nfl_model_picks",
@@ -22,7 +22,7 @@
       "full_file": "nfl_model_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Stats-only model straight-up win probabilities for 16 remaining Week 12 games (ignores injuries). Strongest: JAX 80% over TEN, CIN 72% over NO, DAL 66% over PHI."
+      "alt": "Stats-only model straight-up win probabilities for 15 remaining Week 12 games (ignores injuries). Strongest: JAX 80% over TEN, CIN 72% over NO, DAL 66% over PHI."
     },
     {
       "id": "nfl_expert_picks",
@@ -32,7 +32,7 @@
       "full_file": "nfl_expert_picks.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Week 11 straight-up picks grid from 9 published experts (CBS Sports, ESPN (11-analyst majority), NFL.com (5-editor majority)). Everyone who picked agreed on HOU, BUF, CHI, DAL, KC, PIT, DEN, JAX, CIN."
+      "alt": "Week 12 straight-up picks grid from 9 published experts (CBS Sports, ESPN (11-analyst majority), NFL.com (5-editor majority)). Everyone who picked agreed on DAL, MIN, HOU, CIN, NYG, NYJ, JAX, WSH."
     },
     {
       "id": "nfl_standings",
@@ -52,7 +52,7 @@
       "full_file": "nfl_ats_early.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 11 games. Best: DET +1.5 64%, PIT +3.5 63%, LAR -2.5 52%. Lowest: JAX -14.5 41%. Lock candidate: DET +1.5 (64% cover). Model estimate, not betting advice."
+      "alt": "Against the spread, early games: model's likely winner, its line and chance to cover for 10 games. Best: PIT +4.5 66%, DET +1.5 64%, HOU -6.5 45%. Lowest: NYJ -4.5 40%. Lock candidate: PIT +4.5 (66% cover). Model estimate, not betting advice."
     },
     {
       "id": "nfl_ats_late",
@@ -62,7 +62,7 @@
       "full_file": "nfl_ats_late.webp",
       "width": 1080,
       "height": 1920,
-      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: NE +1.5 62%, SF -3 53%, CLE -4.5 47%. Lowest: WSH -7 39%. Model estimate, not betting advice."
+      "alt": "Against the spread, late and primetime games: model's likely winner, its line and chance to cover for 5 games. Best: SF -2.5 56%, NE -1.5 53%, CLE -4.5 47%. Lowest: WSH -7 39%. Model estimate, not betting advice."
     }
   ]
 }
